@@ -1,0 +1,6 @@
+	3	C01	EggSandwich	5.00
+	4	D01	LemonCake	12.90
+	5	E01	Bomboloni	3.00
+	2	B01	Latte		6.00
+	6	F01	Cookie		3.00
+	1	A02	Americano	3.90
